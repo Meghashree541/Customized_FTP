@@ -1,0 +1,4 @@
+gmon.out
+megha
+pwd.txt
+tmp.txt
